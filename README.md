@@ -7,4 +7,5 @@ Orange
 Green
 Blue
 Violet
+Ultra-violet
 Other

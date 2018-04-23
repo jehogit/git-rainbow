@@ -14,6 +14,5 @@ yellow-jeho3
 ## BLUE
 
 ## VIOLET
-@ykharitonova
 
 ## Other

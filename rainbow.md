@@ -15,7 +15,7 @@ yellow-jeho3
 @jeho
 
 ## VIOLET
-@ykharitonova
+violet-kate
 
 ## Ultra-violet 
 @jeho2
